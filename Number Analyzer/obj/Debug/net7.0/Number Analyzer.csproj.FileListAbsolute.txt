@@ -1,0 +1,15 @@
+D:\GC Day 2\Number Analyzer\Number Analyzer\bin\Debug\net7.0\Number Analyzer.exe
+D:\GC Day 2\Number Analyzer\Number Analyzer\bin\Debug\net7.0\Number Analyzer.deps.json
+D:\GC Day 2\Number Analyzer\Number Analyzer\bin\Debug\net7.0\Number Analyzer.runtimeconfig.json
+D:\GC Day 2\Number Analyzer\Number Analyzer\bin\Debug\net7.0\Number Analyzer.dll
+D:\GC Day 2\Number Analyzer\Number Analyzer\bin\Debug\net7.0\Number Analyzer.pdb
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.csproj.AssemblyReference.cache
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.AssemblyInfoInputs.cache
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.AssemblyInfo.cs
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.csproj.CoreCompileInputs.cache
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.dll
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\refint\Number Analyzer.dll
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.pdb
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\Number Analyzer.genruntimeconfig.cache
+D:\GC Day 2\Number Analyzer\Number Analyzer\obj\Debug\net7.0\ref\Number Analyzer.dll
