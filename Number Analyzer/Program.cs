@@ -12,7 +12,7 @@ while(Cont == true)
     int result = int.Parse(Console.ReadLine());
     
 
-    if (result % 2 == 0 && result <= 100)
+    if (result > 0 && result <= 100)
     {
             Console.WriteLine(name + " your entry is even number");
 
@@ -46,7 +46,7 @@ while(Cont == true)
             Cont = false;
         }
     }
-    else { Console.WriteLine(name + " ,please enter even number between 1 and 100"); }
+    else { Console.WriteLine(name + " ,please enter a valid number between 1 and 100"); }
 
 }
 
